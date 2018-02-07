@@ -1,0 +1,76 @@
+h1{
+  font-family: 'Monserrat', serif;
+  font-weight: 700;
+  color: #2D3142;
+}
+h2{
+  font-family: 'Monserrat', sans-serif;
+  font-weight: 400;
+}
+h3{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+h4{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+body{
+  background-color: #0C1B33;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+a{
+  text-decoration: none;
+  color: #0C1B33;
+}
+a:hover{
+  color: #E8871E;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.container_primary{
+  width: 1200px;
+  margin: 0 auto;
+}
+.card{
+  background: #F5FAF0;
+  padding: 30px;
+  border-radius: 4px;
+  /*box-shadow: 1px 1px 3px rgba(0,0,0,0.1);*/
+  border: 5px solid #0C1B33;
+  border-radius: 35px;
+}
+.card_primary{
+  background: #C1C9B7;
+  padding: 30px;
+  border-radius: 4px;
+ /* box-shadow: 1px 1px 3px rgba(0,0,0,0.1);*/
+  border: 5px solid #0C1B33;
+  border-radius: 35px;
+}
+.text-center{
+  text-align: center;
+}
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  padding-left: 0px;
+}
+#profile {
+  width: 175px;
+  border: 1px solid #8B8C89;
+  border-radius: 10px;
+}
+.img-standard{
+  width: 200px;
+}
+.table-align_text_to_bullets{
+  padding: 40px;
+}
+.social-big{
+  font-size: 50px;
+}
